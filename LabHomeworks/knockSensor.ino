@@ -23,10 +23,6 @@ void setup() {
 
 void loop() {
   knockValue = analogRead(knockSensorPin);
-  if (knockValue != 0){
-    Serial.println(knockValue);
-    delay(10);
-  }
   currentTime = millis();
   
   if(knockValue > threshold){
