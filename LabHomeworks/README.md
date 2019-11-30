@@ -14,4 +14,7 @@
 structure should be the following: **a.Start game** - showing the number of lives, the level and the score; The level increases by one every 5 seconds; After 10 seconds the game ends; The score = 3xLevel;
 **b.HighScore** - initially 0; it updates everytime it is passed by the player;
 **c.Settings** - shows the starting level value which can be modified with the Y axis of the joystick; 
-*video link:
+
+
+
+video link: https://drive.google.com/file/d/1vFf9aAiRLY5u11_YVqrj6-NTd8xeLV52/view
