@@ -15,6 +15,7 @@
 There are 3 states: locked in / selected (not locked in though) / not selected. When locked in (the button is pressed), the point of the locked display is always on; When selected, the point of the selected display is blinking; The others points are always off;
 ### 4th Homework:
 **filename**: gameMenu.ino
+
 **description** : create a menu in the LCD which you scroll through with the joystick. The menu
 structure should be the following: 
 
