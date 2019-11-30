@@ -11,8 +11,14 @@
 ### 4th Homework:
 **filename**: gameMenu.ino
 **description** : create a menu in the LCD which you scroll through with the joystick. The menu
-structure should be the following: **a.Start game** - showing the number of lives, the level and the score; The level increases by one every 5 seconds; After 10 seconds the game ends; The score = 3xLevel;
+structure should be the following: 
+
+**a.Start game** - showing the number of lives, the level and the score; The level increases by one every 5 seconds; After 10 seconds the game ends; The score = 3xLevel;
+
+
 **b.HighScore** - initially 0; it updates everytime it is passed by the player;
+
+
 **c.Settings** - shows the starting level value which can be modified with the Y axis of the joystick; 
 
 
