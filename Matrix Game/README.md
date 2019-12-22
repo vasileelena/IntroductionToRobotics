@@ -47,3 +47,7 @@ You can see the name of the game, game's gitHub repository link and the name of 
 * Joystick
 * MAX7219 Driver
 * Wires
+
+
+# Video link:
+https://drive.google.com/open?id=11A9FUwp7jgpe2jkebaNmO6tHpTHz0t3x
