@@ -46,7 +46,7 @@ The principle is simple: you have a device that features a:
 
 >> BOM link: https://docs.google.com/spreadsheets/d/1Htry010sDG5Vxl1XxuDkIDsEU6a6pIBbHVVmY9l-o_E/edit#gid=1811352457
 
-*This project was inspired from the tutorial below; I used it only for learning how the keypad works, and to see the project asambled and the principle behind.
+*This project was inspired from the tutorial below; I used it only for learning how the keypad works, and to see the project asambled and the principle behind it.
 
 >> Tutorial link: https://howtomechatronics.com/projects/arduino-security-alarm-system-project/
 
