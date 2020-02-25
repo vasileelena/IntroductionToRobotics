@@ -2,9 +2,9 @@
 SecurityAlarm
 
 # Description
-Do you ever come home after a long day, and just want to relax in your cozy bed but wait...you see the door closet is wide open...oh no! Your sister came to your room AGAIN to borrow some clothes and left a total mess! This is so frustrating, isn't it? Now you have to clean instead of relaxing!
+Do you ever come home after a long day, and just want to relax in your cozy bed but wait...you see the closetdoor is wide open...oh no! Your sister came to your room AGAIN to borrow some clothes and left a total mess! This is so frustrating, isn't it? Now you have to clean instead of relaxing!
 
-Or maybe, your mother cleaned your room and throwed away that paper you've been writing some great ideas on! Oh man, wouldn't it be so good if peaople couldn't come to your room when you're not there? 
+Or maybe, your mother cleaned your room and throwed away that paper you've been writing some great ideas on! Oh man, wouldn't it be so good if people couldn't come to your room when you're not there? 
 
 Well, let's see, how do people protect their properties, their homes, their stores, and so on? 
 
