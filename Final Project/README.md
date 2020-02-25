@@ -42,7 +42,8 @@ The principle is simple: you have a device that features a:
 
 
 # Video & Bill Of Materials(BOM) links:
->> Video link:
+>> Video link: https://drive.google.com/file/d/1brFCpf5uu0flclAtQS8q7z8u087UG8N0/view
+
 >> BOM link: https://docs.google.com/spreadsheets/d/1Htry010sDG5Vxl1XxuDkIDsEU6a6pIBbHVVmY9l-o_E/edit#gid=1811352457
 
 
