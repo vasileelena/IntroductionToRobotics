@@ -9,7 +9,6 @@ const int d6 = 12;
 const int d7 = 13;
 const int pirPin = A5;
 const int buzzerPin = A3;
-//const int V0 = A0;
 
 LiquidCrystal lcd(RS, enable, d4, d5, d6, d7);
 
