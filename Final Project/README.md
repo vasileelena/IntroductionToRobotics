@@ -23,7 +23,7 @@ The principle is simple: you have a device that features a:
 
 # Features
 * The password has 4 digits, and is initially "0000";
-* When changing the password, at first you must enter the old password; this way, the sistem "knows" that is you who's trying to change it;
+* When changing the password, at first you must enter the old password; this way, the sistem "knows" that it's you who's trying to change it;
 * Changing the password has some features like deleting a digit('#') because your finger slipped and you pressed the wrong one or you just changed your mind;
 * When changing the password, you can also cancel the procedure anytime, without saving the password you introduced so far (just press '*');
 * After changing the password, the old password doesn't work anymore(obviously);
